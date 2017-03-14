@@ -1,17 +1,17 @@
-PrefixTree
-=======================
+# PrefixTree #
 
-INSTALLATION
+## INSTALLATION ##
 
 To install this module type the following:
 
-   perl Makefile.PL
-   make
-   make test
-   make install
+```bash
+perl Makefile.PL
+make
+make test
+make install
+```
 
-
-COPYRIGHT AND LICENSE
+## COPYRIGHT AND LICENSE ##
 
 MIT License
 
